@@ -500,6 +500,10 @@ body {
   border-top: 1px solid var(--dark-blue-300);
 }
 
+.fls1__div--a i {
+  display: none;
+}
+
 @media (max-width: 1009px) {
   .header__search--label {
     min-width: 0;
@@ -612,6 +616,10 @@ body {
 
   .fls1__div--a img {
     display: none;
+  }
+
+  .fls1__div--a i {
+    display: flex;
   }
 
   .fls2,
