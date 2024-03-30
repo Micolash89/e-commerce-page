@@ -642,4 +642,22 @@ body {
   .main__section1 {
     display: none;
   }
+
+  .header,
+  .main,
+  .header__section2 {
+    padding: 0;
+  }
+}
+
+@media (max-width: 400px) {
+  .header__section2 {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 313px) {
+  .header__search {
+    flex-wrap: wrap;
+  }
 }
