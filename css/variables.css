@@ -11,6 +11,7 @@
   --dark-grey-200: #888888;
   --dark-grey-300: #414141;
   --dark-grey-400: #494949;
+  --dark-grey-500: #999999;
 
   --ligth-grey-100: #ededed; /*border*/
   --ligth-grey-200: #f5f5f5; /*1*/
@@ -31,9 +32,12 @@
   --txt-5: 3.938rem; /*63px*/
   --txt-6: 1.875rem; /*30px*/
   --txt-7: 1.5rem; /*24px*/
+  --txt-8: 1.75rem; /*28px*/
+  --txt-9: 0.813rem; /*13px*/
 
   --radius-1: 16px;
   --radius-2: 10px;
   --radius-3: 7px;
   --radius-4: 8px;
+  --radius-5: 6px;
 }
