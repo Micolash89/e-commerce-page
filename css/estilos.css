@@ -291,11 +291,6 @@ button {
 }
 
 /*section3*/
-.ms3Cards {
-}
-
-.main__section3 {
-}
 
 .ms3Cards {
   padding: 30px 0;
@@ -559,16 +554,6 @@ button {
   .main__section1 div:nth-child(2) {
     width: 129px;
     border: 1px solid white;
-  }
-
-  .main__section1 div img {
-    /* width: 50%; */
-  }
-
-  .next,
-  .preview {
-    /* width: 10px !important;
-    height: 10px; */
   }
 
   .footer {
